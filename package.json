@@ -2,6 +2,7 @@
   "name": "links-extractor",
   "version": "0.0.2",
   "description": "A link extractor library",
+  "main": "lib/index.js",
   "keywords": [
     "sitemap",
     "websites",
@@ -20,7 +21,7 @@
     "url": "https://github.com/firehist/links-extractor.git"
   },
   "licence": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "jsdom": "~0.10.3",
     "lodash": "~2.4.1",
     "q": "~1.0.1",
