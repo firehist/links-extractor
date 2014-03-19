@@ -1,15 +1,7 @@
 {
   "name": "links-extractor",
-<<<<<<< HEAD
-  "version": "0.0.1",
-  "description": "A link extractor library",
-=======
   "version": "0.0.2",
-  "description": "A utility library delivering consistency, customization, performance, & extras.",
-  "homepage": "http://lodash.com/",
-  "license": "MIT",
-  "main": "dist/lodash.js",
->>>>>>> 056262e... Bump 0.0.2
+  "description": "A link extractor library",
   "keywords": [
     "sitemap",
     "websites",
