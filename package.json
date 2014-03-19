@@ -1,0 +1,32 @@
+{
+  "name": "links-extractor",
+  "version": "0.0.1",
+  "description": "A utility library delivering consistency, customization, performance, & extras.",
+  "homepage": "http://lodash.com/",
+  "license": "MIT",
+  "main": "dist/lodash.js",
+  "keywords": [
+    "sitemap",
+    "websites",
+    "links",
+    "extractor"
+  ],
+  "author": {
+    "name": "Benjamin Longearet",
+    "email": "blongearet@gmail.com",
+    "url": "http://firehist.org/"
+  },
+  "contributors": [],
+  "bugs": "https://github.com/firehist/links-extractor/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/firehist/links-extractor.git"
+  },
+  "licence": "MIT",
+  "devDependencies": {
+    "jsdom": "~0.10.3",
+    "lodash": "~2.4.1",
+    "q": "~1.0.1",
+    "phantom": "~0.5.7"
+  }
+}
