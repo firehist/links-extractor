@@ -1,10 +1,7 @@
 {
   "name": "links-extractor",
   "version": "0.0.1",
-  "description": "A utility library delivering consistency, customization, performance, & extras.",
-  "homepage": "http://lodash.com/",
-  "license": "MIT",
-  "main": "dist/lodash.js",
+  "description": "A link extractor library",
   "keywords": [
     "sitemap",
     "websites",
