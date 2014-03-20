@@ -1,6 +1,6 @@
 {
   "name": "links-extractor",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A link extractor library",
   "main": "./lib/linksextractor",
   "keywords": [
