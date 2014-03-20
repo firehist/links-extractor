@@ -2,7 +2,7 @@
   "name": "links-extractor",
   "version": "0.0.3",
   "description": "A link extractor library",
-  "main": "lib/index.js",
+  "main": "./lib/linkextractor",
   "keywords": [
     "sitemap",
     "websites",

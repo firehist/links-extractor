@@ -1,7 +1,7 @@
 var _ = require('lodash');
-var linkextractor = require('./lib/linkextractor')();
+var linkextractor = require('../lib/linksextractor');
 
-var _linkextractor = new linkextractor({
+var _linkextractor = linkextractor.create({
     siteRoot: 'http://portfolio.firehist.org',
     debug: true
 });
