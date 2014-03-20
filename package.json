@@ -2,7 +2,7 @@
   "name": "links-extractor",
   "version": "0.0.4",
   "description": "A link extractor library",
-  "main": "./lib/linkextractor",
+  "main": "./lib/linksextractor",
   "keywords": [
     "sitemap",
     "websites",
